@@ -1,0 +1,11 @@
+FCFS Scheduling 
+
+First come first serve (FCFS) scheduling algorithm simply schedules the jobs according to their arrival time. 
+The job which comes first in the ready queue will get the CPU first. 
+The lesser the arrival time of the job, the sooner will the job get the CPU. 
+FCFS scheduling may cause the problem of starvation if the burst time of the first process is the longest among all the jobs.
+
+Convoy effects in FCFS
+FCFS may suffer from the convoy effect if the burst time of the first job is the highest among all. As in the real life, if a convoy is passing through the road then the other persons may get blocked until it passes completely. This can be simulated in the Operating System also.
+
+If the CPU gets the processes of the higher burst time at the front end of the ready queue then the processes of lower burst time may get blocked which means they may never get the CPU if the job in the execution has a very high burst time. This is called convoy effect or starvation.
