@@ -1,0 +1,29 @@
+1. Personal Computing Environment :  In personal computing environment there is a stand-alone machine. Complete program resides on computer and 
+executed there. Different stand-alone machines that constitute a personal computing environment are laptops, mobiles, printers, computer systems, 
+scanners etc. That we use at our homes and offices.
+
+2. Time-Sharing Computing Environment : In Time Sharing Computing Environment multiple users share system simultaneously. Different users 
+(different processes) are allotted different time slice and processor switches rapidly among users according to it. For example, student listening 
+to music while coding something in an IDE. Windows 95 and later versions, Unix, IOS, Linux operating systems are the examples of this time sharing 
+computing environment.
+
+3. Client Server Computing Environment : In client server computing environment two machines are involved i.e., client machine and server machine, 
+sometime same machine also serve as client and server. In this computing environment client requests resource/service and server provides that
+respective resource/service. A server can provide service to multiple clients at a time and here mainly communication happens through computer 
+network.
+
+4. Distributed Computing Environment : In a distributed computing environment multiple nodes are connected together using network but physically 
+they are separated. A single task is performed by different functional units of different nodes of distributed unit. Here different programs of an 
+application run simultaneously on different nodes, and communication happens in between different nodes of this system over network to solve task.
+
+5. Grid Computing Environment : In grid computing environment, multiple computers from different locations works on single problem. In this system 
+set of computer nodes running in cluster jointly perform a given task by applying resources of multiple computers/nodes. It is network of computing 
+environment where several scattered resources provide running environment for single task.
+
+6. Cloud Computing Environment : In cloud computing environment on demand availability of computer system resources like processing and storage are
+availed. Here computing is not done in individual technology or computer rather it is computed in cloud of computers where all required resources
+are provided by cloud vendor. This environment primarily comprised of three services 
+
+7. Cluster Computing Environment : In cluster computing environment cluster performs task where cluster is a set of loosely or tightly connected 
+computers that work together. It is viewed as single system and performs task parallelly that’s why also it is similar to parallel computing 
+environment. Cluster aware applications are especially used in cluster computing environment.
