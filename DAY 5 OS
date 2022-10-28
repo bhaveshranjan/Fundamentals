@@ -1,0 +1,19 @@
+A round robin is an arrangement of choosing all elements in a group equally in some rational order, usually from the top to the bottom of a list and 
+then starting again at the top of the list and so on.
+
+A simple way to think of round robin is that it is about "taking turns."
+
+Round robin applications
+While this definition is general, there are some specific applications for a round robin. We examine a few of these below.
+
+Computer operations
+In computer operations, round robin is used in a scheduling algorithm that distributes work evenly among all available resources. This ensures that no 
+single resource is overworked, which can lead to errors and other issues down the line.
+
+This is often described as round robin process scheduling.
+
+Another example of round robin in computer operations is round robin DNS (or RRDNS), a method that allows multiple DNS records to be created for the 
+same IP address.
+
+This ensures that no matter how many users are accessing the same domain name, each user has equal access to information and services through round 
+robin.
