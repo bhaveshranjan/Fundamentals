@@ -1,0 +1,16 @@
+Characteristics of SJF Scheduling:
+1) It is associated with each job as a unit of time to complete.
+2) This algorithm method is helpful for batch-type processing, where waiting for jobs to complete is not critical.
+3) It can improve process throughput by making sure that shorter jobs are executed first, hence possibly have a short turnaround time.
+4) It improves job output by offering shorter jobs, which should be executed first, which mostly have a shorter turnaround time.
+  
+  
+  Non preemtive SJF:  In non-preemptive scheduling, once the CPU cycle is allocated to process, the process holds it till it reaches a waiting state or
+  terminated.
+  
+  Preemtive SJF:  In Preemptive SJF Scheduling, jobs are put into the ready queue as they come. A process with shortest burst time begins execution.
+  If a process with even a shorter burst time arrives, the current process is removed or preempted from execution, and the shorter job is allocated 
+  CPU cycle.
+
+
+  
