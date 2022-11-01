@@ -1,0 +1,7 @@
+This is the simplest synchronization mechanism. This is a Software Mechanism implemented in User mode. This is a busy waiting solution which can be 
+used for more than two processes.
+In this mechanism, a Lock variable lockis used. Two values of lock can be possible, either 0 or 1. Lock value 0 means that the critical section is
+vacant while the lock value 1 means that it is occupied.
+A process which wants to get into the critical section first checks the value of the lock variable. If it is 0 then it sets the value of lock as 1 and
+enters into the critical section, otherwise it waits.
+
